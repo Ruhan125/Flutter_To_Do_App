@@ -1,6 +1,6 @@
 # to_do_app
 
-A new Flutter project.
+We devlopped this flutter project for doing the job of a simple To Do app. Where you can add and remove tas. Mark as done etc.
 
 ## Getting Started
 

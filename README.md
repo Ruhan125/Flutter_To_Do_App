@@ -1,6 +1,7 @@
 # to_do_app
 
 We devlopped this flutter project for doing the job of a simple To Do app. Where you can add and remove tas. Mark as done etc.
+![todo1](https://github.com/Ruhan125/Flutter_To_Do_App/assets/67371356/c56e2423-432c-4347-b45b-eecd472c1622)
 
 ## Getting Started
 
